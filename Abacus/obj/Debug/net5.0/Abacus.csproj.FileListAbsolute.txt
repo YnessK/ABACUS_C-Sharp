@@ -1,0 +1,15 @@
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.csproj.AssemblyReference.cache
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.AssemblyInfoInputs.cache
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.AssemblyInfo.cs
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.csproj.CoreCompileInputs.cache
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/bin/Debug/net5.0/Abacus.deps.json
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/bin/Debug/net5.0/Abacus.runtimeconfig.json
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/bin/Debug/net5.0/Abacus.runtimeconfig.dev.json
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/bin/Debug/net5.0/Abacus.dll
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/bin/Debug/net5.0/ref/Abacus.dll
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/bin/Debug/net5.0/Abacus.pdb
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.dll
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/ref/Abacus.dll
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.pdb
+/Users/ynesskhouader/TP_S2_C#/ABACUS/yness.khouader-2026-abacus/Abacus/obj/Debug/net5.0/Abacus.genruntimeconfig.cache
